@@ -1,0 +1,63 @@
+{
+   "INTRODUCTION_NEW_USER": {
+        "1": "Hello, I am Biblo! I will be quizzing your mathematics skills!",
+        "2": "You will be asked multiple choice questions based on simple mathematical concepts. Can you please tell me your name?",
+        "3": "Hi {{NAME}}! Are you excited to learn today?"
+    },
+    "INTRODUCTION_RETURNING_USER": {
+        "1": "Hello, I am Biblo! I will be quizzing your mathematics skills!",
+        "2": "Welcome back {{NAME}}! Are you excited to learn today?"
+    },
+    "TOPICS":{
+        "1": "Is there any particular topic you would like to be quizzed on. I can ask you questions on Algebra, Geometry, Profit and Loss, Percentages, General",
+        "2": "I didn't get that, shall we go ahead with General Questions?",
+        "3": "Okay, we shall be studying {{TOPIC}} today"
+    },
+    "FURHAT_GESTURES":{"smile":"BigSmile","surprise":"Surprise","frown":"BrowFrown","curiosity":"Oh","sadness":"ExpressSad","default":"Smile"},
+    "GENERAL_TALK":["What would you like to talk about?","What is on your mind?"],
+    "QUIZ_DIALOGUE":{
+        "CORRECT_ANSWER":["Well done! You got it right", "That's correct!", "Right answer!","Great job!","That's the correct answer","Absolutely right!","You nailed it!"],
+        "MANY_CORRECT_ANSWERS":["You're on a roll!", "Nicely done! Keep it up!"],
+        "INCORRECT_ANSWER":["That's incorrect", "Sorry, wrong answer.", "Unfortunately, that's incorrect","Not quite"],
+        "MANY_INCORRECT_ANSWERS":["It's okay, you'll get it next time", "Better luck next time!", "Take your time, no need to rush"],
+        "ASK_FOR_HINT":["Would you like some help?", "Do you want a hint?","Any help needed?","Need a little nudge in the right direction?","Could I offer you a hint to assist you?","Feel free to ask for a hint if you need one.","In case you're stuck, I can provide a hint.","Could I offer a suggestion to help you along?"],
+        "NEXT_QUESTION":["Let's move on to the next question","Okay, next question", "Moving on", "Let's proceed to the following question.","Let's advance to the next question, shall we?","Now, let's delve into the next question."]
+    },
+    "UNCLEAR_DIALOGUE":["I'm sorry, I didn't catch that.", "Can you please repeat?", "Pardon me? Could you come again?"],
+    "NO_DIALOGUE":"Are you still there?",
+    "TO_STOP":"Do you want to stop the session?",
+    "GENERAL_TO_QUIZ_DIALOGUE":"Do you want to get back to the questions?",
+    "RECAP_PREV_SESSION": "Let's pick up where we left off. In the last session for this topic, you had got {{INCORRECT}} correct and {{CORRECT}} wrong. Try to beat that today!",
+    "SESSION_END_DIALOGUE":"You have reached the end of the session. You got {{CORRECT}} questions right and {{INCORRECT}} wrong. {{PERFORMANCE_SPECIFIC}}. Thanks and have a nice day! Goodbye",
+    "SESSION_END_NO_SCORE": "You have reached the end of the session. Thanks and have a nice day! Goodbye",
+    "PERFORMANCE_SPECIFIC_DIALOGUE":{
+        "-5":"Needs work, you should revise the topic more",
+        "-4":"Needs work, you should revise the topic more",
+        "-3":"You can do better, keep practising!",
+        "-2":"You can do better, keep practising!",
+        "-1":"You did well, but some more practice can definitely help you",
+        "0":"You did well, but some more practice can definitely help you",
+        "1":"You did well, but some more practice can definitely help you",
+        "2":"Well done! You have a good understanding of the topic",
+        "3":"Awesome, you did so well!",
+        "4":"Awesome, you did so well!",
+        "5":"Brilliant, you got them all right! Impressive!"
+    },
+    "PROMPTS":{
+        "NAME":"What is the name of the person saying the following? {{DIALOGUE}}",
+        "YES_NO": "Answer in one word from the list [yes,no] whether the following statement is affirmative? {{DIALOGUE}}",
+        "TOPIC": "What does the user want to study if they say the following? {{DIALOGUE}}",
+        "COHERENT_DIALOGUE": "Answer in one word from the list [yes,no] whether the following dialogue is coherent. {{DIALOGUE}}",
+        "EMOTION_DIALOGUE": "The user got a mathematics question {{RIGHT/WRONG}} and is showing {{EMOTION}} emotion. Answer in one word from the list [yes,no,maybe] if user needs a break? ",
+        "EMOTION_EXPRESSION": "I got mathematics question {{RIGHT/WRONG}} and am showing {{EMOTION}} emotion. Give a suitable facial expression out of the following: Smile, Frown, Sadness, Surprise, Curiosity.",
+        "GENERAL_TALK": "{{DIALOGUE}}. I feel {{EMOTION}}",
+        "SWITCH_TO_STUDY": "Answer in one word from the list [yes,no] whether I am agreeing if I say the following: {{DIALOGUE}}",
+        "END_SESSION": "Do I want to stop the session if I say the following, answer in one word yes/no: {{DIALOGUE}}"
+    },
+    "LIST_OF_TOPICS":["geometry","algebra","general","gain","percentages"],
+    "LIST_OF_TOPICS_RAG":["geometry","algebra","bodmas","profit_and_loss","percentages"],
+    "TOTAL_QUESTIONS":3,
+    "WAIT_TIME_FOR_HINT":45,
+    "WAIT_TIME_TO_REPEAT":20,
+    "WAIT_TIME_FOR_ENDING_SESSION":300
+}

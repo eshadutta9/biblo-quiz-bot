@@ -1,0 +1,482 @@
+[
+  {
+    "question_id": 1,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "c",
+    "hint": "Hint: Isolate the variable x by moving the constant term to the other side of the equation.",
+    "explanation": "Explanation: To solve 2x - 5 = 7, add 5 to both sides, yielding 2x = 12. Divide both sides by 2 to find x = 6. Therefore, the correct answer is c) 6.",
+    "options": "['a) 2', 'b) 4', 'c) 6', 'd) 8', 'e) 10']",
+    "question": "Solve the equation: 2x - 5 = 7."
+  },
+  {
+    "question_id": 2,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "c",
+    "hint": "Hint: Distribute the coefficient outside the parentheses to both terms inside.",
+    "explanation": "Explanation: Simplifying 3(2x - 5) + x = 20 gives 6x - 15 + 2x = 20. Combine like terms to get 8x - 15 = 20. Solve for x to find x = 4.375. Therefore, the correct answer is b) 4.375.",
+    "options": "['a) 2.5', 'b) 4.375', 'c) 5', 'd) 6', 'e) 7.5']",
+    "question": "Simplify: 3(2x - 5) + x = 20."
+  },
+  {
+    "question_id": 4,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "c",
+    "hint": "Hint: Combine like terms and isolate the variable.",
+    "explanation": "Explanation: Solving 2(3x - 1) = 22 - x involves distributing and simplifying to get 6x - 2 = 22 - x. Combine like terms to obtain 7x = 24. Therefore, the correct answer is c) 3.42.",
+    "options": "['a) 4', 'b) 5', 'c) 3.42', 'd) 7', 'e) 8']",
+    "question": "Solve for x: 2(3x - 1) = 22 - x."
+  },
+  {
+    "question_id": 5,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "a",
+    "hint": "Hint: Factor the quadratic expression.",
+    "explanation": "Explanation: Factoring x^2 - 5x + 6 gives (x - 2)(x - 3).",
+    "options": "['a) x-2 and x-3', 'b) x-5 and x-6', 'c) 4', 'd) 5', 'e) x-6 and 3']",
+    "question": "Factorize: x^2 - 5x + 6 = 0."
+  },
+  {
+    "question_id": 6,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "c",
+    "hint": "Hint: Use the quadratic formula to solve for x.",
+    "explanation": "Explanation: The quadratic formula x = (-b ± √(b^2 - 4ac)) / 2a can be applied to solve the quadratic equation 2x^2 - 5x - 3 = 0. Solve to find x = 3 and x = -1/2. Therefore, the correct answer is c) 3 and -1/2.",
+    "options": "['a) 1 and 2', 'b) -1 and 3', 'c) 3 and -1/2', 'd) 1/2 and 2', 'e) -2 and 1']",
+    "question": "Solve the quadratic equation: 2x^2 - 5x - 3 = 0."
+  },
+  {
+    "question_id": 7,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "b",
+    "hint": "Hint: Identify the vertex form of the quadratic equation.",
+    "explanation": "Explanation: The given quadratic equation y = 2x^2 - 8x + 6 can be written in vertex form as y = 2(x - 2)^2 + 2. The vertex form is (h, k), where (3, 1) is the vertex. Therefore, the correct answer is b) (3, 1).",
+    "options": "['a) (1, 1)', 'b) (3, 1)', 'c) (-2, 6)', 'd) (4, -2)', 'e) (0, 4)']",
+    "question": "Identify the vertex of the quadratic equation y = 2x^2 - 8x + 6."
+  },
+  {
+    "question_id": 8,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "c",
+    "hint": "Hint: Apply the distributive property to simplify the expression.",
+    "explanation": "Explanation: Distribute the -2 to both terms inside the parentheses, resulting in -2x + 10. Combine like terms to get -x + 5. Therefore, the correct answer is c) -x + 5.",
+    "options": "['a) -2x - 5', 'b) -2x + 5', 'c) -2x + 19', 'd) x - 5', 'e) x + 5']",
+    "question": "Simplify: -2(x - 2) + 15."
+  },
+  {
+    "question_id": 9,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "a",
+    "hint": "Hint: Use the quadratic formula to find the solutions for x.",
+    "explanation": "Explanation: Apply the quadratic formula to solve the equation 3x^2 - 5x + 2 = 0. The solutions are x = 2/3 and x = 2. Therefore, the correct answer is a) 2/3 and 2.",
+    "options": "['a) 2/3 and 2', 'b) -1 and 3', 'c) 3 and -1/2', 'd) 1/2 and 2', 'e) -2 and 1']",
+    "question": "Solve the quadratic equation: 3x^2 - 5x + 2 = 0."
+  },
+  {
+    "question_id": 10,
+    "topic_id": 1,
+    "topic": "algebra",
+    "correct": "d",
+    "hint": "Hint: Factor the quadratic expression.",
+    "explanation": "Explanation: Factor the quadratic expression x^2 - 5x + 6. The factored form is (x - 2)(x - 3). Therefore, the correct answer is d) (x - 2)(x - 3).",
+    "options": "['a) x + 2', 'b) x - 2', 'c) x^2 + 2', 'd) (x - 2)(x - 3)', 'e) x^2 - 2']",
+    "question": "Factorize: x^2 - 5x + 6."
+  },
+  {
+    "question_id": 11,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "b",
+    "hint": "Hint: Use the Pythagorean theorem to find the length of the hypotenuse.",
+    "explanation": "Explanation: In a right-angled triangle with legs of length 3 and 4, the hypotenuse can be found using the Pythagorean theorem: c = sqrt(a^2 + b^2). Therefore, the correct answer is b) 5.",
+    "options": "['a) 3', 'b) 5', 'c) 7', 'd) 9', 'e) 12']",
+    "question": "Find the length of the hypotenuse in a right-angled triangle with legs of length 3 and 4."
+  },
+  {
+    "question_id": 12,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "c",
+    "hint": "Hint: Calculate the area of a rectangle using the formula A = length * width.",
+    "explanation": "Explanation: The area of a rectangle with length 6 units and width 8 units is calculated as A = length * width. Therefore, the correct answer is c) 48 square units.",
+    "options": "['a) 12 square units', 'b) 24 square units', 'c) 48 square units', 'd) 64 square units', 'e) 96 square units']",
+    "question": "Find the area of a rectangle with length 6 units and width 8 units."
+  },
+  {
+    "question_id": 13,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "a",
+    "hint": "Hint: Use the formula for the circumference of a circle, C = 2πr.",
+    "explanation": "Explanation: The circumference of a circle is calculated using the formula C = 2πr, where r is the radius. Therefore, the correct answer is a) 12π units.",
+    "options": "['a) 12π units', 'b) 6π units', 'c) 9π units', 'd) 16π units', 'e) 24π units']",
+    "question": "Find the circumference of a circle with a radius of 6 units."
+  },
+  {
+    "question_id": 14,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "d",
+    "hint": "Hint: Use the formula for the volume of a cylinder, V = πr^2h.",
+    "explanation": "Explanation: The volume of a cylinder is calculated using the formula V = πr^2h, where r is the radius and h is the height. Therefore, the correct answer is d) 72π cubic units.",
+    "options": "['a) 18π cubic units', 'b) 36π cubic units', 'c) 54π cubic units', 'd) 72π cubic units', 'e) 90π cubic units']",
+    "question": "Find the volume of a cylinder with a radius of 3 units and height of 8 units."
+  },
+  {
+    "question_id": 15,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "e",
+    "hint": "Hint: Use the formula for the surface area of a sphere, A = 4πr^2.",
+    "explanation": "Explanation: The surface area of a sphere is calculated using the formula A = 4πr^2, where r is the radius. Therefore, the correct answer is e) 36π square units.",
+    "options": "['a) 9π square units', 'b) 18π square units', 'c) 27π square units', 'd) 32π square units', 'e) 36π square units']",
+    "question": "Find the surface area of a sphere with a radius of 3 units."
+  },
+  {
+    "question_id": 16,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "b",
+    "hint": "Hint: Use the formula for the area of a triangle, A = (base * height) / 2.",
+    "explanation": "Explanation: The area of a triangle is calculated using the formula A = (base * height) / 2. Therefore, the correct answer is b) 10 square units.",
+    "options": "['a) 5 square units', 'b) 10 square units', 'c) 15 square units', 'd) 20 square units', 'e) 25 square units']",
+    "question": "Find the area of a triangle with a base of 5 units and a height of 4 units."
+  },
+  {
+    "question_id": 17,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "c",
+    "hint": "Hint: Use the formula for the perimeter of a rectangle, P = 2(length + width).",
+    "explanation": "Explanation: The perimeter of a rectangle is calculated using the formula P = 2(length + width). Therefore, the correct answer is c) 34 units.",
+    "options": "['a) 26 units', 'b) 30 units', 'c) 34 units', 'd) 38 units', 'e) 42 units']",
+    "question": "Find the perimeter of a rectangle with length 12 units and width 5 units."
+  },
+  {
+    "question_id": 18,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "a",
+    "hint": "Hint: Use the formula for the area of a circle, A = πr^2.",
+    "explanation": "Explanation: The area of a circle is calculated using the formula A = πr^2, where r is the radius. Therefore, the correct answer is a) 36π square units.",
+    "options": "['a) 36π square units', 'b) 18π square units', 'c) 27π square units', 'd) 45π square units', 'e) 54π square units']",
+    "question": "Find the area of a circle with a radius of 6 units."
+  },
+  {
+    "question_id": 19,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "d",
+    "hint": "Hint: Use the formula for the volume of a cone, V = (1/3)πr^2h.",
+    "explanation": "Explanation: The volume of a cone is calculated using the formula V = (1/3)πr^2h, where r is the radius and h is the height. Therefore, the correct answer is d) 36π cubic units.",
+    "options": "['a) 12π cubic units', 'b) 24π cubic units', 'c) 30π cubic units', 'd) 36π cubic units', 'e) 48π cubic units']",
+    "question": "Find the volume of a cone with a radius of 3 units and height of 4 units."
+  },
+  {
+    "question_id": 20,
+    "topic_id": 2,
+    "topic": "geometry",
+    "correct": "e",
+    "hint": "Hint: Use the formula for the diagonal of a rectangle, d = sqrt(length^2 + width^2).",
+    "explanation": "Explanation: The diagonal of a rectangle is calculated using the formula d = sqrt(length^2 + width^2). Therefore, the correct answer is e) 13 units.",
+    "options": "['a) 8 units', 'b) 10 units', 'c) 11 units', 'd) 12 units', 'e) 13 units']",
+    "question": "Find the diagonal length of a rectangle with length 5 units and width 12 units."
+  },
+  {
+    "question_id": 22,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "a",
+    "hint": "Hint: Profit is calculated as the selling price minus the cost price.",
+    "explanation": "Explanation: An item is bought for $50 and sold for $70. The profit is $70 - $50 = $20. Therefore, the correct answer is a) $20.",
+    "options": "['a) $20', 'b) $15', 'c) $25', 'd) $30', 'e) $10']",
+    "question": "Calculate the profit when an item is bought for $50 and sold for $70."
+  },
+  {
+    "question_id": 23,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "b",
+    "hint": "Hint: Loss is calculated as the cost price minus the selling price.",
+    "explanation": "Explanation: An item is bought for $90 and sold for $75. The loss is $90 - $75 = $15. Therefore, the correct answer is b) $15.",
+    "options": "['a) $10', 'b) $15', 'c) $20', 'd) $25', 'e) $30']",
+    "question": "Calculate the loss when an item is bought for $90 and sold for $75."
+  },
+  {
+    "question_id": 24,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "c",
+    "hint": "Hint: Profit percentage is calculated as (Profit / Cost Price) * 100.",
+    "explanation": "Explanation: An item is bought for $120 and sold for $150, resulting in a profit of $30. The profit percentage is (30 / 120) * 100 = 25%. Therefore, the correct answer is c) 25%.",
+    "options": "['a) 10%', 'b) 15%', 'c) 25%', 'd) 30%', 'e) 20%']",
+    "question": "Calculate the profit percentage when an item is bought for $120 and sold for $150."
+  },
+  {
+    "question_id": 25,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "d",
+    "hint": "Hint: Loss percentage is calculated as (Loss / Cost Price) * 100.",
+    "explanation": "Explanation: An item is bought for $200 and sold for $180, resulting in a loss of $20. The loss percentage is (20 / 200) * 100 = 10%. Therefore, the correct answer is d) 10%.",
+    "options": "['a) 5%', 'b) 8%', 'c) 15%', 'd) 10%', 'e) 12%']",
+    "question": "Calculate the loss percentage when an item is bought for $200 and sold for $180."
+  },
+  {
+    "question_id": 26,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "e",
+    "hint": "Hint: Calculate the selling price when the cost price and profit percentage are known.",
+    "explanation": "Explanation: An item is bought for $80, and a profit of 20% is earned. The selling price is calculated as $80 + (20/100) * $80 = $96. Therefore, the correct answer is e) $96.",
+    "options": "['a) $84', 'b) $88', 'c) $92', 'd) $100', 'e) $96']",
+    "question": "Calculate the selling price when an item is bought for $80, and a profit of 20% is earned."
+  },
+  {
+    "question_id": 27,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "a",
+    "hint": "Hint: Calculate the cost price when the selling price and profit percentage are known.",
+    "explanation": "Explanation: An item is sold for $120 with a profit of 25%. The cost price is calculated as $120 / (1 + 25/100) = $96. Therefore, the correct answer is a) $96.",
+    "options": "['a) $96', 'b) $100', 'c) $110', 'd) $115', 'e) $120']",
+    "question": "Calculate the cost price when an item is sold for $120 with a profit of 25%."
+  },
+  {
+    "question_id": 28,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "b",
+    "hint": "Hint: Calculate the selling price when the cost price and loss percentage are known.",
+    "explanation": "Explanation: An item is bought for $160, and a loss of 15% is incurred. The selling price is calculated as $160 - (15/100) * $160 = $136. Therefore, the correct answer is b) $136.",
+    "options": "['a) $120', 'b) $136', 'c) $144', 'd) $150', 'e) $156']",
+    "question": "Calculate the selling price when an item is bought for $160 with a loss of 15%."
+  },
+  {
+    "question_id": 29,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "c",
+    "hint": "Hint: Calculate the profit when the cost price, selling price, and quantity are known.",
+    "explanation": "Explanation: A total profit of $90 is earned by selling 6 items. The profit per item is $90 / 6 = $15. Therefore, the correct answer is c) $15.",
+    "options": "['a) $10', 'b) $12', 'c) $15', 'd) $18', 'e) $20']",
+    "question": "Calculate the profit per item when a total profit of $90 is earned by selling 6 items."
+  },
+  {
+    "question_id": 30,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "d",
+    "hint": "Hint: Calculate the cost price when the selling price and profit are known.",
+    "explanation": "Explanation: An item is sold for $240 with a profit of 20%. The cost price is calculated as $240 / (1 + 20/100) = $200. Therefore, the correct answer is d) $200.",
+    "options": "['a) $180', 'b) $190', 'c) $210', 'd) $200', 'e) $220']",
+    "question": "Calculate the cost price when an item is sold for $240 with a profit of 20%."
+  },
+  {
+    "question_id": 31,
+    "topic_id": 3,
+    "topic": "profit_and_loss",
+    "correct": "e",
+    "hint": "Hint: Calculate the selling price when the cost price, profit percentage, and quantity are known.",
+    "explanation": "Explanation: An item is bought for $80 with a profit of 25%, and 4 items are sold. The total profit is $80 * 25/100 * 4 = $80. Therefore, the correct answer is e) $80.",
+    "options": "['a) $60', 'b) $64', 'c) $68', 'd) $72', 'e) $80']",
+    "question": "Calculate the total profit when an item is bought for $80 with a profit of 25%, and 4 items are sold."
+  },
+  {
+    "question_id": 32,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "b",
+    "hint": "Hint: Calculate the percentage increase using the formula ((New Value - Old Value) / Old Value) * 100.",
+    "explanation": "Explanation: An amount increases from $50 to $70. The percentage increase is ((70 - 50) / 50) * 100 = 40%. Therefore, the correct answer is b) 40%.",
+    "options": "['a) 20%', 'b) 40%', 'c) 50%', 'd) 30%', 'e) 60%']",
+    "question": "Calculate the percentage increase when an amount increases from $50 to $70."
+  },
+  {
+    "question_id": 33,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "c",
+    "hint": "Hint: Calculate the percentage decrease using the formula ((Old Value - New Value) / Old Value) * 100.",
+    "explanation": "Explanation: An amount decreases from $120 to $80. The percentage decrease is ((120 - 80) / 120) * 100 = 33.33%. Therefore, the correct answer is c) 33.33%.",
+    "options": "['a) 25%', 'b) 30%', 'c) 33.33%', 'd) 40%', 'e) 50%']",
+    "question": "Calculate the percentage decrease when an amount decreases from $120 to $80."
+  },
+  {
+    "question_id": 34,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "d",
+    "hint": "Hint: Calculate the percentage of a value with respect to another using the formula (Part / Whole) * 100.",
+    "explanation": "Explanation: A score of 80 is what percentage of a maximum score of 200. The percentage is (80 / 200) * 100 = 40%. Therefore, the correct answer is d) 40%.",
+    "options": "['a) 20%', 'b) 30%', 'c) 35%', 'd) 40%', 'e) 45%']",
+    "question": "What percentage is a score of 80 out of a maximum score of 200?"
+  },
+  {
+    "question_id": 35,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "a",
+    "hint": "Hint: Calculate the original value when the final value and percentage increase are known.",
+    "explanation": "Explanation: An amount increases by 25% to reach $125. The original value is calculated as $125 / (1 + 25/100) = $100. Therefore, the correct answer is a) $100.",
+    "options": "['a) $100', 'b) $110', 'c) $115', 'd) $120', 'e) $130']",
+    "question": "Calculate the original value when an amount increases by 25% to reach $125."
+  },
+  {
+    "question_id": 36,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "b",
+    "hint": "Hint: Calculate the final value when the original value and percentage increase are known.",
+    "explanation": "Explanation: An amount increases by 20%. The final value is calculated as $150 * (1 + 20/100) = $180. Therefore, the correct answer is b) $180.",
+    "options": "['a) $160', 'b) $180', 'c) $190', 'd) $200', 'e) $220']",
+    "question": "Calculate the final value when an amount increases by 20% from $150."
+  },
+  {
+    "question_id": 37,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "c",
+    "hint": "Hint: Calculate the original quantity when the final quantity and percentage decrease are known.",
+    "explanation": "Explanation: A quantity decreases by 15%. The original quantity is calculated as 85 / (1 - 15/100) = 100. Therefore, the correct answer is c) 100.",
+    "options": "['a) 90', 'b) 95', 'c) 100', 'd) 110', 'e) 120']",
+    "question": "Calculate the original quantity when it decreases by 15% to reach 85."
+  },
+  {
+    "question_id": 38,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "d",
+    "hint": "Hint: Calculate the final quantity when the original quantity and percentage decrease are known.",
+    "explanation": "Explanation: A quantity decreases by 30%. The final quantity is calculated as 70 * (1 - 30/100) = 49. Therefore, the correct answer is d) 49.",
+    "options": "['a) 40', 'b) 45', 'c) 50', 'd) 49', 'e) 55']",
+    "question": "Calculate the final quantity when a quantity decreases by 30% from 70."
+  },
+  {
+    "question_id": 39,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "e",
+    "hint": "Hint: Calculate the new value when the original value and percentage change are known.",
+    "explanation": "Explanation: An amount increases by 10%. The new value is calculated as $120 * (1 + 10/100) = $132. Therefore, the correct answer is e) $132.",
+    "options": "['a) $110', 'b) $115', 'c) $120', 'd) $126', 'e) $132']",
+    "question": "Calculate the new value when an amount increases by 10% from $120."
+  },
+  {
+    "question_id": 40,
+    "topic_id": 4,
+    "topic": "percentages",
+    "correct": "a",
+    "hint": "Hint: Calculate the original value when the new value and percentage change are known.",
+    "explanation": "Explanation: An amount decreases by 25%. The original value is calculated as $150 / (1 - 25/100) = $200. Therefore, the correct answer is a) $200.",
+    "options": "['a) $200', 'b) $180', 'c) $175', 'd) $160', 'e) $150']",
+    "question": "Calculate the original value when an amount decreases by 25% to reach $150."
+  },
+  {
+    "question_id": 41,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "c",
+    "hint": "Hint: Follow the order of operations (bodmas) to simplify the expression.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 3 + (4 * 2) - 5 / 2 = 3 + 8 - 2.5 = 8.5. Therefore, the correct answer is c) 8.5.",
+    "options": "['a) 7', 'b) 8', 'c) 8.5', 'd) 9', 'e) 10']",
+    "question": "Simplify the expression: 3 + (4 * 2) - 5 / 2."
+  },
+  {
+    "question_id": 42,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "b",
+    "hint": "Hint: Follow the order of operations (bodmas) to evaluate the expression.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 2 * (6 + 3) - 4 / 2 = 2 * 9 - 2 = 18 - 2 = 16. Therefore, the correct answer is b) 16.",
+    "options": "['a) 12', 'b) 16', 'c) 18', 'd) 20', 'e) 24']",
+    "question": "Evaluate the expression: 2 * (6 + 3) - 4 / 2."
+  },
+  {
+    "question_id": 43,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "a",
+    "hint": "Hint: Apply bodmas to simplify the given expression step by step.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 5 + 2 * (8 - 3) = 5 + 2 * 5 = 5 + 10 = 15. Therefore, the correct answer is a) 15.",
+    "options": "['a) 15', 'b) 18', 'c) 20', 'd) 12', 'e) 25']",
+    "question": "Simplify the expression: 5 + 2 * (8 - 3)."
+  },
+  {
+    "question_id": 44,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "d",
+    "hint": "Hint: Follow the order of operations (bodmas) to solve the expression.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 4 * (6 / 2) + 5 - 3 = 4 * 3 + 5 - 3 = 12 + 5 - 3 = 14. Therefore, the correct answer is d) 14.",
+    "options": "['a) 10', 'b) 12', 'c) 13', 'd) 14', 'e) 15']",
+    "question": "Solve the expression: 4 * (6 / 2) + 5 - 3."
+  },
+  {
+    "question_id": 45,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "e",
+    "hint": "Hint: Apply bodmas to simplify the given expression step by step.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 2 + (3 * 4) - 6 / 2 = 2 + 12 - 3 = 11. Therefore, the correct answer is e) 11.",
+    "options": "['a) 8', 'b) 9', 'c) 10', 'd) 12', 'e) 11']",
+    "question": "Simplify the expression: 2 + (3 * 4) - 6 / 2."
+  },
+  {
+    "question_id": 46,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "a",
+    "hint": "Hint: Follow the order of operations (bodmas) to evaluate the expression.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: (5 + 3) * 2 - 4 / 2 = 8 * 2 - 2 = 16 - 2 = 14. Therefore, the correct answer is a) 14.",
+    "options": "['a) 14', 'b) 15', 'c) 16', 'd) 12', 'e) 18']",
+    "question": "Evaluate the expression: (5 + 3) * 2 - 4 / 2."
+  },
+  {
+    "question_id": 47,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "b",
+    "hint": "Hint: Apply bodmas to simplify the given expression step by step.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 3 * (4 + 2) / 2 = 3 * 6 / 2 = 18 / 2 = 9. Therefore, the correct answer is b) 9.",
+    "options": "['a) 6', 'b) 9', 'c) 12', 'd) 15', 'e) 18']",
+    "question": "Simplify the expression: 3 * (4 + 2) / 2."
+  },
+  {
+    "question_id": 48,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "c",
+    "hint": "Hint: Follow the order of operations (bodmas) to solve the expression.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 2 + 3 * (6 / 3) = 2 + 3 * 2 = 2 + 6 = 8. Therefore, the correct answer is c) 8.",
+    "options": "['a) 5', 'b) 6', 'c) 8', 'd) 9', 'e) 10']",
+    "question": "Solve the expression: 2 + 3 * (6 / 3)."
+  },
+  {
+    "question_id": 49,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "e",
+    "hint": "Hint: Follow the order of operations (bodmas) to solve the expression.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: 4 + (5 * 2) - 3 / 3 = 4 + 10 - 1 = 13. Therefore, the correct answer is e) 13.",
+    "options": "['a) 10', 'b) 11', 'c) 12', 'd) 14', 'e) 13']",
+    "question": "Solve the expression: 4 + (5 * 2) - 3 / 3."
+  },
+  {
+    "question_id": 50,
+    "topic_id": 5,
+    "topic": "bodmas",
+    "correct": "a",
+    "hint": "Hint: Apply bodmas to simplify the given expression step by step.",
+    "explanation": "Explanation: The expression is solved using bodmas as follows: (6 + 2) * 3 / 2 - 5 = 8 * 3 / 2 - 5 = 12 - 5 = 7. Therefore, the correct answer is a) 7.",
+    "options": "['a) 7', 'b) 8', 'c) 9', 'd) 10', 'e) 6']",
+    "question": "Simplify the expression: (6 + 2) * 3 / 2 - 5."
+  }
+]
